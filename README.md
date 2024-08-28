@@ -1,2 +1,3 @@
 # class-7
-layout
+layout https://nigatsultana.github.io/class-7/
+
