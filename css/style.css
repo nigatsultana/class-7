@@ -1,0 +1,71 @@
+.header{
+	height:100px;
+	background-Color:red;
+}
+.container{
+	overflow:hidden;
+
+}
+.blog{
+	float:left;
+	width:60%;
+	height:150px;
+	background-color:green;
+}
+.contact{
+	float:right;
+	width:40%;
+	height:150px;
+	background-color:aqua;
+}
+.container2{
+	overflow:hidden;
+
+}
+.child1{
+	float:left;
+	width:33.33%;
+	height:150px;
+	background-color:teal;
+}
+.child2{
+	float:left;
+	width:33.33%;
+	height:150px;
+	background-color:skyblue;
+}
+.child3{
+	float:left;
+	width:33.33%;
+	height:150px;
+	background-color:yellow;
+}
+.container3{
+	overflow:hidden;
+}
+.child{
+	float:left;
+	width:25%;
+	height:150px;
+}
+.brewn{
+	background-color:brown;
+}
+.coral{
+	background-color:coral;
+}
+.teal{
+	background-color:teal;
+
+}
+.black{
+	background-color: black;
+}
+
+
+.footer{
+	height:100px;
+	background-color:blue;
+
+
+}
